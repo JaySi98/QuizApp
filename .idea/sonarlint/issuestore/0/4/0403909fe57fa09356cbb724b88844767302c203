@@ -1,0 +1,45 @@
+
+b
+java:S1128"ERemove this unused import 'androidx.appcompat.app.AppCompatActivity'.(€¶£î8½¤ŠÆí.
+Q
+java:S1128"4Remove this unused import 'android.widget.EditText'.(†Å›Ú8â·Şôí.
+w	java:S1160"VRename this field "spinner_noq" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬öÎÜúÿÿÿÿ8â·Şôí.
+R
+java:S1128"5Remove this unused import 'android.text.TextWatcher'.( š«8ïëàôí.
+P
+java:S1128"3Remove this unused import 'java.util.zip.Inflater'.(„ËÅ¯8Ø Ùí.
+i
+java:S1301˜"KReplace this "switch" statement by "if" statements to increase readability.(ºÓ©¦8ÖÓëÁî.
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ñ ÂÆí.
+P
+java:S1128".Remove this unused import 'android.text.Html'.(ø¿ˆÛùÿÿÿÿ8ùÔÁÆí.
+P
+java:S1199›"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8±ë•Íí.
+ƒ
+java:S14501"aRemove the "spinner_difficulty" field and declare it as a local variable in the relevant methods.(ÇœĞìşÿÿÿÿ8ùã÷í.
+V
+java:S1128"9Remove this unused import 'androidx.annotation.Nullable'.(¾Èêš8Ü†Âí.
+x
+java:S14504"VRemove the "adapter" field and declare it as a local variable in the relevant methods.(™­¬Ìúÿÿÿÿ8ĞµŒËí.
+U
+java:S1128%"3Remove this unused import 'org.json.JSONException'.(¹Ó·úÿÿÿÿ8ùÔÁÆí.
+b
+java:S1128"@Remove this unused import 'com.example.sb_projekt.API.Question'.(ìˆ€™ÿÿÿÿÿ8ªèÂÆí.
+}
+java:S14502"[Remove the "recyclerView" field and declare it as a local variable in the relevant methods.(¿á© ıÿÿÿÿ8©É“í.
+T
+java:S1128"2Remove this unused import 'android.text.Editable'.(À”áÈşÿÿÿÿ8ïëàôí.
+N
+java:S1128	"1Remove this unused import 'android.os.AsyncTask'.(À»¥—8ùÔÁÆí.
+Q
+java:S1128$"/Remove this unused import 'org.json.JSONArray'.(¬¸Ê’üÿÿÿÿ8ùÔÁÆí.
+a
+java:S1128"DRemove this unused import 'com.example.sb_projekt.API.NetworkUtils'.(“ì”È8ùÔÁÆí.
+|
+java:S14500"ZRemove the "spinner_noq" field and declare it as a local variable in the relevant methods.(¬öÎÜúÿÿÿÿ8ª …÷í.
+~	java:S1161"]Rename this field "spinner_difficulty" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇœĞìşÿÿÿÿ8¥÷Å’í.
+S
+java:S1128"1Remove this unused import 'android.widget.Toast'.(©›ïÍúÿÿÿÿ8‘Ëä÷í.
+R
+java:S1128&"0Remove this unused import 'org.json.JSONObject'.(œÖ´üşÿÿÿÿ8ùÔÁÆí.

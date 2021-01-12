@@ -1,0 +1,9 @@
+
+L
+java:S2093"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ8õşôëì.
+]	java:S125L"<This block of commented-out lines of code should be removed.(õÊÔÿÿÿÿÿ8´¯ùóì.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½¢¹ï
+W
+java:S1118":Add a private constructor to hide the implicit public one.(ÜÁ§8®ıáîì.
+H
+java:S1068"+Remove this unused "LOG_TAG" private field.(á¨ÿ­8´¯ùóì.

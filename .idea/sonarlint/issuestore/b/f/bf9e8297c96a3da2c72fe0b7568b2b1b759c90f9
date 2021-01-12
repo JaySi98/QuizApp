@@ -1,0 +1,12 @@
+
+w	java:S116"VRename this field "button_menu" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§²©Ïÿÿÿÿÿ8Êá·î.
+|
+java:S1450"ZRemove the "button_menu" field and declare it as a local variable in the relevant methods.(§²©Ïÿÿÿÿÿ8£ÉÊ¸î.
+^
+java:S1128"<Remove this unused import 'android.annotation.SuppressLint'.(ÕƒóÏûÿÿÿÿ8Ê½£¸î.
+b
+java:S1128"ERemove this unused import 'androidx.appcompat.app.AppCompatActivity'.(€¶£î8¾’ÕÉí.
+u	java:S116"YRename this field "textView_score" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û¶­ˆ8Êá·î.
+J
+java:S1604&"(Make this anonymous inner class a lambda(Í¥“üşÿÿÿÿ8½Êí.
+{	java:S116"ZRename this field "imageView_score" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à¬Úùÿÿÿÿ8Êá·î.

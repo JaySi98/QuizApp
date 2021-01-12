@@ -1,0 +1,10 @@
+
+]
+java:S1128";Remove this unused import 'androidx.fragment.app.Fragment'.(‚Š©“ùÿÿÿÿ8ùõª–í.
+O
+java:S1128"3Remove this unused import 'android.content.Intent'.(³ğ‹G8ĞÈ‚—í.
+f
+java:S1128"DRemove this unused import 'com.example.sb_projekt.QuestionActivity'.(¡¦òÙşÿÿÿÿ8ĞÈ‚—í.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñ›ëüÿÿÿÿ
+P
+java:S1128"4Remove this unused import 'android.graphics.Bitmap'.(¾ì8–Ê´•í.

@@ -1,0 +1,27 @@
+
+j
+:app/src/main/java/com/example/sb_projekt/MainActivity.java,0\4\0403909fe57fa09356cbb724b88844767302c203
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+@
+app/build.gradle,f\4\f4a01d6a4fcb971362ec00a83903fd3902f52164
+j
+:app/src/main/java/com/example/sb_projekt/API/Question.java,1\8\18ce0898f5d1b26de96ea55e8483801617021249
+n
+>app/src/main/java/com/example/sb_projekt/QuestionActivity.java,a\d\adccdf11ea6bf4df99110cc5998ef5d77d614261
+k
+;app/src/main/java/com/example/sb_projekt/AboutActivity.java,5\b\5b2b72e35481b577a429db8056cb6091c898285f
+l
+<app/src/main/java/com/example/sb_projekt/API/UrlBuilder.java,e\a\ea94f1ab4514c8e3e241a3b01f063230687edc6b
+n
+>app/src/main/java/com/example/sb_projekt/API/NetworkUtils.java,2\e\2effc9db3b4a874412105a01a27d9fbf063a79d2
+n
+>app/src/main/java/com/example/sb_projekt/Adapter/Category.java,b\0\b050593263ccc05bfe1732da738870377b527975
+y
+Iapp/src/main/java/com/example/sb_projekt/Adapter/CategoryListAdapter.java,f\0\f05dd45b87d0efcee1755f57195932d745c0dff2
+p
+@app/src/main/java/com/example/sb_projekt/Adapter/AppUtility.java,8\1\817f430353753aa4bb850d05982161ee5174973c
+n
+>app/src/main/java/com/example/sb_projekt/AbstractActivity.java,d\a\daca440c191f803f96b6a5b1e5455aae64ee82da
+l
+<app/src/main/java/com/example/sb_projekt/ResultActivity.java,b\f\bf9e8297c96a3da2c72fe0b7568b2b1b759c90f9

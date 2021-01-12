@@ -1,0 +1,18 @@
+
+`
+java:S1128"CRemove this unused import 'android.text.method.LinkMovementMethod'.(ΞΊΧ°8µύ»ξ.
+P
+java:S1128".Remove this unused import 'android.text.Html'.(ψΏΫωÿÿÿÿ8ΕΖ»ξ.
+O
+java:S1128"3Remove this unused import 'android.content.Intent'.(³π‹G8¦Ϊ Ζλ.
+b
+java:S1128"ERemove this unused import 'androidx.appcompat.app.AppCompatActivity'.(€¶£ξ8ÒΚΖν.
+P
+java:S1128
+".Remove this unused import 'android.view.View'.(Ψ½­δώÿÿÿÿ8¦Ϊ Ζλ.
+u
+java:S1450"SRemove the "link" field and declare it as a local variable in the relevant methods.(•ςΐ³ψÿÿÿÿ8ώ¦€»ξ.
+T
+java:S1128"2Remove this unused import 'android.widget.Button'.(²ςύÿÿÿÿ8ÒΚΖν.
+q
+java:S1192"UDefine a constant instead of duplicating this literal "https://opentdb.com/" 3 times.(·ΨΣk8ψ©“»ξ.
